@@ -1,0 +1,256 @@
+e = 2.7182818284590452353602874713526624977572470936999595749669676277240766303535475945713821785251664274274663919320030599218174135966290435729003342952605956307381323286279434907632338298807531952510190115738341879307021540891499348841675092447614606680822648001684774118537423454424371075390777449920695517027618386062613313845830007520449338265602976067371132007093287091274437470472306969772093101416928368190255151086574637721112523897844250569536967707854499699679468644549059879316368892300987931277361782154249992295763514822082698951936680331825288693984964651058209392398294887933203625094431173012381970684161403970198376793206832823764648042953118023287825098194558153017567173613320698112509961818815930416903515988885193458072738667385894228792284998920868058257492796104841984443634632449684875602336248270419786232090021609902353043699418491463140934317381436405462531520961836908887070167683964243781405927145635490613031072085103837505101157477041718986106873969655212671546889570350350
+Elements used in current run: 1000
+Threads used in current run: 28
+Total execution time for current run (millis):324
+Thread-1-F started.
+Thread-5-F started.
+Thread-6-F started.
+Thread-8-F started.
+Thread-11-F started.
+Thread-10-F started.
+Thread-4-F started.
+Thread-3-F started.
+Thread-0-F started.
+Thread-7-F started.
+Thread-2-F started.
+Thread-9-F started.
+Thread-12-F started.
+Thread-14-F started.
+Thread-0-F stopped.
+Thread-2-F stopped.
+Thread-13-F started.
+Thread-15-F started.
+Thread-2-F execution time was (millis): 12
+Thread-0-F execution time was (millis): 14
+Thread-3-F stopped.
+Thread-3-F execution time was (millis): 18
+Thread-16-F started.
+Thread-17-F started.
+Thread-1-F stopped.
+Thread-1-F execution time was (millis): 25
+Thread-18-F started.
+Thread-6-F stopped.
+Thread-7-F stopped.
+Thread-6-F execution time was (millis): 44
+Thread-7-F execution time was (millis): 44
+Thread-4-F stopped.
+Thread-4-F execution time was (millis): 46
+Thread-12-F stopped.
+Thread-12-F execution time was (millis): 42
+Thread-8-F stopped.
+Thread-8-F execution time was (millis): 45
+Thread-5-F stopped.
+Thread-14-F stopped.
+Thread-5-F execution time was (millis): 47
+Thread-14-F execution time was (millis): 42
+Thread-10-F stopped.
+Thread-10-F execution time was (millis): 45
+Thread-13-F stopped.
+Thread-13-F execution time was (millis): 43
+Thread-15-F stopped.
+Thread-9-F stopped.
+Thread-9-F execution time was (millis): 45
+Thread-11-F stopped.
+Thread-15-F execution time was (millis): 36
+Thread-11-F execution time was (millis): 47
+Thread-18-F stopped.
+Thread-16-F stopped.
+Thread-16-F execution time was (millis): 37
+Thread-18-F execution time was (millis): 11
+Thread-17-F stopped.
+Thread-22-F started.
+Thread-17-F execution time was (millis): 33
+Thread-19-F started.
+Thread-20-F started.
+Thread-24-F started.
+Thread-25-F started.
+Thread-23-F started.
+Thread-19-F stopped.
+Thread-19-F execution time was (millis): 3
+Thread-20-F stopped.
+Thread-20-F execution time was (millis): 5
+Thread-22-F stopped.
+Thread-21-F started.
+Thread-22-F execution time was (millis): 8
+Thread-27-F started.
+Thread-2-N started.
+Thread-1-N started.
+Thread-0-N started.
+Thread-2-N stopped.
+Thread-1-N stopped.
+Thread-24-F stopped.
+Thread-0-N stopped.
+Thread-1-N execution time was (millis): 1
+Thread-2-N execution time was (millis): 1
+Thread-24-F execution time was (millis): 8
+Thread-0-N execution time was (millis): 1
+Thread-25-F stopped.
+Thread-25-F execution time was (millis): 8
+Thread-23-F stopped.
+Thread-23-F execution time was (millis): 11
+Thread-21-F stopped.
+Thread-21-F execution time was (millis): 7
+Thread-9-N started.
+Thread-10-N started.
+Thread-10-N stopped.
+Thread-9-N stopped.
+Thread-10-N execution time was (millis): 1
+Thread-9-N execution time was (millis): 1
+Thread-26-F started.
+Thread-3-N started.
+Thread-3-N stopped.
+Thread-3-N execution time was (millis): 1
+Thread-27-F stopped.
+Thread-27-F execution time was (millis): 9
+Thread-5-N started.
+Thread-5-N stopped.
+Thread-5-N execution time was (millis): 1
+Thread-15-N started.
+Thread-12-N started.
+Thread-21-N started.
+Thread-15-N stopped.
+Thread-21-N stopped.
+Thread-12-N stopped.
+Thread-15-N execution time was (millis): 2
+Thread-21-N execution time was (millis): 2
+Thread-12-N execution time was (millis): 2
+Thread-26-F stopped.
+Thread-4-N started.
+Thread-26-F execution time was (millis): 9
+Thread-17-N started.
+Thread-11-N started.
+Thread-18-N started.
+Thread-16-N started.
+Thread-26-N started.
+Thread-16-N stopped.
+Thread-6-N started.
+Thread-16-N execution time was (millis): 4
+Thread-26-N stopped.
+Thread-27-N started.
+Thread-26-N execution time was (millis): 0
+Thread-6-N stopped.
+Thread-6-N execution time was (millis): 6
+Thread-8-N started.
+Thread-7-N started.
+Thread-4-N stopped.
+Thread-11-N stopped.
+Thread-18-N stopped.
+Thread-11-N execution time was (millis): 6
+Thread-18-N execution time was (millis): 6
+Thread-4-N execution time was (millis): 7
+Thread-22-N started.
+Thread-17-N stopped.
+Thread-17-N execution time was (millis): 6
+Thread-8-N stopped.
+Thread-7-N stopped.
+Thread-7-N execution time was (millis): 7
+Thread-8-N execution time was (millis): 7
+Thread-22-N stopped.
+Thread-25-N started.
+Thread-19-N started.
+Thread-14-N started.
+Thread-22-N execution time was (millis): 6
+Thread-24-N started.
+Thread-13-N started.
+Thread-25-N stopped.
+Thread-14-N stopped.
+Thread-19-N stopped.
+Thread-14-N execution time was (millis): 6
+Thread-25-N execution time was (millis): 6
+Thread-13-N stopped.
+Thread-24-N stopped.
+Thread-19-N execution time was (millis): 6
+Thread-13-N execution time was (millis): 5
+Thread-20-N started.
+Thread-24-N execution time was (millis): 1
+Thread-27-N stopped.
+Thread-23-N started.
+Thread-27-N execution time was (millis): 2
+Thread-20-N stopped.
+Thread-20-N execution time was (millis): 2
+Thread-23-N stopped.
+Thread-23-N execution time was (millis): 2
+Thread-0-E started.
+Thread-1-E started.
+Thread-2-E started.
+Thread-3-E started.
+Thread-4-E started.
+Thread-10-E started.
+Thread-11-E started.
+Thread-20-E started.
+Thread-17-E started.
+Thread-6-E started.
+Thread-12-E started.
+Thread-8-E started.
+Thread-5-E started.
+Thread-13-E started.
+Thread-7-E started.
+Thread-9-E started.
+Thread-15-E started.
+Thread-16-E started.
+Thread-18-E started.
+Thread-19-E started.
+Thread-22-E started.
+Thread-14-E started.
+Thread-21-E started.
+Thread-24-E started.
+Thread-23-E started.
+Thread-9-E stopped.
+Thread-9-E execution time was (millis): 98
+Thread-14-E stopped.
+Thread-14-E execution time was (millis): 102
+Thread-10-E stopped.
+Thread-10-E execution time was (millis): 108
+Thread-21-E stopped.
+Thread-21-E execution time was (millis): 85
+Thread-16-E stopped.
+Thread-16-E execution time was (millis): 118
+Thread-3-E stopped.
+Thread-3-E execution time was (millis): 127
+Thread-22-E stopped.
+Thread-22-E execution time was (millis): 126
+Thread-6-E stopped.
+Thread-4-E stopped.
+Thread-6-E execution time was (millis): 131
+Thread-4-E execution time was (millis): 133
+Thread-19-E stopped.
+Thread-27-E started.
+Thread-19-E execution time was (millis): 135
+Thread-1-E stopped.
+Thread-1-E execution time was (millis): 142
+Thread-5-E stopped.
+Thread-5-E execution time was (millis): 143
+Thread-23-E stopped.
+Thread-23-E execution time was (millis): 115
+Thread-25-E started.
+Thread-26-E started.
+Thread-0-E stopped.
+Thread-0-E execution time was (millis): 161
+Thread-15-E stopped.
+Thread-15-E execution time was (millis): 162
+Thread-13-E stopped.
+Thread-13-E execution time was (millis): 162
+Thread-7-E stopped.
+Thread-7-E execution time was (millis): 163
+Thread-2-E stopped.
+Thread-2-E execution time was (millis): 167
+Thread-8-E stopped.
+Thread-8-E execution time was (millis): 165
+Thread-18-E stopped.
+Thread-18-E execution time was (millis): 170
+Thread-20-E stopped.
+Thread-12-E stopped.
+Thread-20-E execution time was (millis): 172
+Thread-24-E stopped.
+Thread-17-E stopped.
+Thread-17-E execution time was (millis): 175
+Thread-12-E execution time was (millis): 172
+Thread-24-E execution time was (millis): 146
+Thread-25-E stopped.
+Thread-25-E execution time was (millis): 28
+Thread-11-E stopped.
+Thread-11-E execution time was (millis): 176
+Thread-26-E stopped.
+Thread-27-E stopped.
+Thread-26-E execution time was (millis): 28
+Thread-27-E execution time was (millis): 41
